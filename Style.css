@@ -1,0 +1,84 @@
+
+html,body{
+   
+    height: 100%;
+
+   
+}
+body{
+    background-image:url(https://images.pexels.com/photos/872958/pexels-photo-872958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-size:cover;
+}
+.navbar{
+    border-bottom: #008ed6 3px solid;
+    opacity: 0.8;
+    border-width: 0px;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    background-color: transparent;
+    background:transparent;
+    
+
+
+    
+}
+.navbar-light .navbar-nav .nav-link {
+   font-size: 1.1em;
+}
+#Club-desc{
+    background: url(https://images.pexels.com/photos/872958/pexels-photo-872958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+min-height: 800px;
+text-align: center;   
+
+}
+#des-txt{
+    margin-top: 250px;
+    color: #121212;
+}
+
+#team{
+    background: url(https://images.pexels.com/photos/316466/pexels-photo-316466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) no-repeat;
+    background-size: cover;
+
+    min-height: 700px;
+}
+#activities{
+    background: white;
+    height: 600px;
+}
+#title{
+    text-align: center;
+    padding-top:100px;
+    font-size: 4em;
+    margin-bottom: 30px;
+}
+.icons{
+    font-size: 6em;
+    text-align: center;
+   
+    align-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
+hr{
+    max-width: 50px;
+    border-width: 3px;
+    border-color:	#007bff;
+}
+#logo{
+    background: url(img/logo-02.png);
+    background-size: cover;
+    width: 70px;
+    height: 70px;
+}
+.btn{
+    border-radius: 15px;
+}
+.nav-brand{
+    font-size: 1.3em;
+}
+
+
